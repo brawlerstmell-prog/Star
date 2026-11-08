@@ -266,7 +266,7 @@
       <button class="close-btn" id="closeProfileBtn" aria-label="Закрыть">✕</button>
     </div>
     <div class="profile-balance"><span class="star">⭐</span><span id="profileBalanceOut">0</span></div>
-    <p class="history-title">История начислений</p>
+    <p class="history-title">История вывода</p>
     <div id="historyList"></div>
   </div>
 </div>
